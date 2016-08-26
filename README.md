@@ -7,7 +7,16 @@ This project is a starter template for [webpack](https://webpack.github.io/) and
 
 ### Installation
 
-Use `npm install` to install the dependencies.
+    # clone the repository and only keep the last commit's history
+    git clone --depth 1 https://github.com/willshiao/babel-webpack-starter.git
+    
+    cd babel-webpack-starter
+    
+    # install dependencies
+    npm install
+    
+    # build using webpack to ensure everything is working
+    npm run build
 
 ### Scripts
 

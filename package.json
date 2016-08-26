@@ -24,5 +24,13 @@
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.15.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willshiao/babel-webpack-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/willshiao/babel-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/willshiao/babel-webpack-starter#readme"
 }
